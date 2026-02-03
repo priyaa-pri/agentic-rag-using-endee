@@ -1,0 +1,2 @@
+Evaluation is based on project quality, use of core technologies,
+code clarity, documentation, and practical applicability.
